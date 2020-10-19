@@ -3,7 +3,7 @@
 - 🔭 I work on:
     - ☁️ AWS Projects
     - 🎮 Godot Projects
-- 🌱 I’m looking to improve my Golang skills
+- 🌱 I’m looking to improve my network development skills
 - 💬 Ask me about your AWS/Godot problems!
 - 😄 Pronouns: he/him
 
